@@ -3,5 +3,5 @@ whatever
 HEAD
 this is the conflict from local
 web changes
-
+Changes
 Yo! Professor Moffett is messing your file up
